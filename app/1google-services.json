@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482957051555",
+    "firebase_url": "https://cameragallery-af6dc.firebaseio.com",
+    "project_id": "cameragallery-af6dc",
+    "storage_bucket": "cameragallery-af6dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482957051555:android:a71d45a47fcac9df",
+        "android_client_info": {
+          "package_name": "com.example.gourav.cameragallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482957051555-nn0mh0tr7898j9bj83rcesshlbthuo63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gourav.cameragallery",
+            "certificate_hash": "22a64bf59f8783d554bf943fe4f9ba52394511fe"
+          }
+        },
+        {
+          "client_id": "482957051555-ed21320drj3rpcgknuhh3pnpn5qcj3ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7508n3ET3z46kjZowyVh9xTIXcoRy6qI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482957051555-ed21320drj3rpcgknuhh3pnpn5qcj3ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

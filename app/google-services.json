@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "771542782478",
+    "firebase_url": "https://camgall-6e601.firebaseio.com",
+    "project_id": "camgall-6e601",
+    "storage_bucket": "camgall-6e601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771542782478:android:a71d45a47fcac9df",
+        "android_client_info": {
+          "package_name": "com.example.gourav.cameragallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771542782478-orpcgfi4sr8bh466jbkq1h1p4ba87nm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1pWKBM-i15B0F-wu1BisrtQIMutqMCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
